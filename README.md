@@ -50,7 +50,7 @@ Ejemplos de comportamiento inaceptable incluyen:
 - Atención sexual no deseada
 - Contacto físico no deseado
 - Interrupción sostenida de las ponencias u otros eventos
-- Otra conducta inapropiada para un público profesional, incluyendo a personas de diferentes conocimientos
+- Otra conducta inapropiada para un público profesional
 
 ## **Cuándo y cómo deben usarse estas pautas**
 
@@ -84,7 +84,7 @@ Puede hacer un reporte de forma anónima en el siguiente formulario[1]. No podem
 
 **Reportar en persona:**
 
-Puede reportar un incidente con algún co-organizador de la comunidad **Medellín CSS**:
+Puede reportar un incidente con algún organizador de la comunidad **Medellín CSS**:
 
 - Luisa Fernanda Vaca
 - Estefany Aguilar
