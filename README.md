@@ -86,17 +86,13 @@ Puede hacer un reporte de forma anónima en el siguiente formulario[1]. No podem
 
 Puede reportar un incidente con algún organizador de la comunidad **Medellín CSS**:
 
-- Luisa Fernanda Vaca
-- Estefany Aguilar
 - Guillermo Rodas
 - Henry Zarza
 - Andrea Córdoba
 
- 
-
 En Twitter: Mensaje directo a @medellinCSS
 
-Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador de la comunidad para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y , por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
+Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador de la comunidad para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y, por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
 
 ## **Atribución**
 
